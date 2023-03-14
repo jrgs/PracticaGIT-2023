@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp1
 {
-    partial class Form1
+    partial class Telegrama
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -82,7 +82,7 @@
             this.rbOrdinario.Text = "Ordinario";
             this.rbOrdinario.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // Telegrama
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -92,8 +92,8 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtPrecio);
             this.Controls.Add(this.txtTelegrama);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Telegrama";
+            this.Text = "Telegrama";
             this.ResumeLayout(false);
             this.PerformLayout();
 
